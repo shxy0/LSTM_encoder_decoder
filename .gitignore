@@ -1,0 +1,3 @@
+*.cache
+*.Cache
+__pycache__/
